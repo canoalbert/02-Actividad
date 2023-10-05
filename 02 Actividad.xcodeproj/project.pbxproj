@@ -15,6 +15,7 @@
 		36FBE9A62ACEC4A600141386 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36FBE9A42ACEC4A600141386 /* LaunchScreen.storyboard */; };
 		36FBE9B12ACEC4A600141386 /* _2_ActividadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FBE9B02ACEC4A600141386 /* _2_ActividadTests.swift */; };
 		36FBE9BC2ACEC4A600141386 /* _2_ActividadUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FBE9BB2ACEC4A600141386 /* _2_ActividadUITests.swift */; };
+		36FBE9D62ACEC88200141386 /* Ventana2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FBE9D52ACEC88200141386 /* Ventana2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		36FBE9B72ACEC4A600141386 /* 02 ActividadUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "02 ActividadUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36FBE9BB2ACEC4A600141386 /* _2_ActividadUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _2_ActividadUITests.swift; sourceTree = "<group>"; };
 		36FBE9BD2ACEC4A600141386 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36FBE9D52ACEC88200141386 /* Ventana2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ventana2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				36FBE9A22ACEC4A600141386 /* Assets.xcassets */,
 				36FBE9A42ACEC4A600141386 /* LaunchScreen.storyboard */,
 				36FBE9A72ACEC4A600141386 /* Info.plist */,
+				36FBE9D52ACEC88200141386 /* Ventana2ViewController.swift */,
 			);
 			path = "02 Actividad";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				36FBE99E2ACEC4A500141386 /* ViewController.swift in Sources */,
+				36FBE9D62ACEC88200141386 /* Ventana2ViewController.swift in Sources */,
 				36FBE99A2ACEC4A500141386 /* AppDelegate.swift in Sources */,
 				36FBE99C2ACEC4A500141386 /* SceneDelegate.swift in Sources */,
 			);
